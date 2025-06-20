@@ -73,6 +73,7 @@ DB_PASSWORD=tu_contraseña
 ```bash
 php artisan migrate
 
+```
 
 ## 📸 Capturas de Pantalla
 
